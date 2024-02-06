@@ -1,6 +1,6 @@
 /* eslint-disable prettier/prettier */
 import {View} from 'react-native';
-import { InputContainer } from './styles/input.style';
+import { InputContainer } from './input.style';
 
 const Input = () => {
   return (

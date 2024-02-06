@@ -11,7 +11,7 @@ export const ContainerLogin = styled.View`
 export const Title = styled.Text`
   text-align: center;
   color: #e0e1dd;
+  font-family: Inter-Bold;
   font-size: 40px;
-  font-weight: bold;
   margin-top: 20%;
 `;
